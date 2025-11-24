@@ -55,7 +55,7 @@
 	branch = .
 [submodule "config"]
 	path = libs/config
-	url = https://github.com/alexs-stuff/config.git
+	url = https://github.com/alexs-stuff/rbx-boost-config.git
 	fetchRecurseSubmodules = on-demand
 	branch = .
 [submodule "log"]
